@@ -1,13 +1,14 @@
 # simple-encryption
 
 ## Description
-Project simple-encryption
+Simple encryption library using ChaCha20Poly1305 and X25519.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide easy-to-use encryption
+- [ ] Support standard crypto primitives
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
